@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Все",
+    "value": "all"
+  },
+  {
+    "title": "Торты",
+    "value": "pies"
+  },
+  {
+    "title": "Капкейки",
+    "value": "cupcakes"
+  },
+  {
+    "title": "Макаруны",
+    "value": "macarons"
+  },
+  {
+    "title": "Пирожные",
+    "value": "cakes"
+  },
+  {
+    "title": "ПП десерты",
+    "value": "pp_desserts"
+  },
+  {
+    "title": "Кенди бар",
+    "value": "candy_bar"
+  },
+  {
+    "title": "Печенье & Пряники",
+    "value": "cookies_gingerbread"
+  },
+  {
+    "title": "Эклеры",
+    "value": "eclairs"
+  },
+  {
+    "title": "Другое",
+    "value": "other"
+  }
+]
